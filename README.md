@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 💫 About Me:
-I am a PhD student working on energy optimization with focus renewable heating, including district heating, solar thermal technology and heat pumps.<br>Collaborations on that end are very welcome!<br>
+I am a PhD student working on energy optimization with focus renewable heating, including district heating, solar thermal technology and heat pumps. Collaborations are very welcome!<br>
 I also am also co-developing the github repository [topotherm](https://github.com/jylambert/topotherm). 
 
 ## 🌐 Socials:
